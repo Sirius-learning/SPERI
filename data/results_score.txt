@@ -1,0 +1,75 @@
+GRUD_encoder_decoder:20
+current time:2024-01-23 13:48:10
+RMSE = 0.06036   MAE = 0.03100   R2 = 0.94521   
+GRUD_encoder_decoder:30
+current time:2024-01-23 13:51:35
+RMSE = 0.06581   MAE = 0.03440   R2 = 0.93487   
+GRUD_encoder_decoder:40
+current time:2024-01-23 13:54:53
+RMSE = 0.06540   MAE = 0.03435   R2 = 0.93568   
+GRUD_encoder_decoder:50
+current time:2024-01-23 13:57:49
+RMSE = 0.06667   MAE = 0.03345   R2 = 0.93317   
+GRUD_encoder_decoder:60
+current time:2024-01-23 14:01:53
+RMSE = 0.07056   MAE = 0.03718   R2 = 0.92513   
+GRUD_encoder_decoder:70
+current time:2024-01-23 14:05:28
+RMSE = 0.06639   MAE = 0.03494   R2 = 0.93371   
+GRUD_encoder_decoder:80
+current time:2024-01-23 14:09:34
+RMSE = 0.07561   MAE = 0.03926   R2 = 0.91403    
+GRUD_encoder_decoder_traindata30%,miss data rate:20
+current time:2024-01-24 12:43:58
+RMSE = 0.07858   MAE = 0.03773   R2 = 0.90321   
+GRUD_encoder_decoder_traindata20%,miss data rate:20
+current time:2024-01-24 12:47:18
+RMSE = 0.09020   MAE = 0.04586   R2 = 0.87477     
+GRUD_encoder_decoder_traindata20%,miss data rate:80
+current time:2024-01-24 12:50:07
+RMSE = 0.09725   MAE = 0.05159   R2 = 0.85444   
+GRUD_encoder_decoder_traindata10%,miss data rate:80
+current time:2024-01-24 12:52:04
+RMSE = 0.11411   MAE = 0.05911   R2 = 0.80996   
+GRUD_encoder_decoder_traindata10%,miss data rate:70
+current time:2024-01-24 13:07:49
+RMSE = 0.10544   MAE = 0.05412   R2 = 0.83776     
+GRUD_encoder_decoder_traindata10%,miss data rate:60
+current time:2024-01-24 13:09:17
+RMSE = 0.09458   MAE = 0.04706   R2 = 0.86945   
+GRUD_encoder_decoder_traindata10%,miss data rate:50
+current time:2024-01-24 13:12:05
+RMSE = 0.10110   MAE = 0.05040   R2 = 0.85084   
+GRUD_encoder_decoder_traindata10%,miss data rate:40
+current time:2024-01-24 13:13:15
+RMSE = 0.31487   MAE = 0.17498   R2 = -0.44685   
+GRUD_encoder_decoder_traindata10%,miss data rate:40
+current time:2024-01-24 13:14:16
+RMSE = 0.08691   MAE = 0.04382   R2 = 0.88978   
+GRUD_encoder_decoder_traindata10%,miss data rate:30
+current time:2024-01-24 13:15:20
+RMSE = 0.08972   MAE = 0.04424   R2 = 0.88253   
+GRUD_encoder_decoder_traindata10%,miss data rate:20
+current time:2024-01-24 13:15:59
+RMSE = 0.09769   MAE = 0.04889   R2 = 0.86074   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:80
+current time:2024-01-29 21:40:26
+RMSE = 0.09446   MAE = 0.04920   R2 = 0.86977   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:70
+current time:2024-01-29 21:42:59
+RMSE = 0.09547   MAE = 0.04737   R2 = 0.86699   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:60
+current time:2024-01-29 21:44:41
+RMSE = 0.08693   MAE = 0.04364   R2 = 0.88973   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:50
+current time:2024-01-29 21:45:47
+RMSE = 0.08345   MAE = 0.04172   R2 = 0.89838   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:40
+current time:2024-01-29 21:46:23
+RMSE = 0.08064   MAE = 0.03983   R2 = 0.90511   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:30
+current time:2024-01-29 21:47:20
+RMSE = 0.08696   MAE = 0.04268   R2 = 0.88963   
+GRUD_encoder_decoder_traindata10%,consective misss,miss rate:20
+current time:2024-01-29 21:47:54
+RMSE = 0.08407   MAE = 0.04092   R2 = 0.89687   

@@ -1,0 +1,126 @@
+GRUD_traindata10%,consective miss,miss rate:80
+current time:2024-02-01 16:49:16
+RMSE = 0.30101   MAE = 0.27415   R2 = -0.32226   
+GRUD_traindata10%,consective miss,miss rate:70
+current time:2024-02-01 16:52:30
+RMSE = 0.14026   MAE = 0.08216   R2 = 0.71292   
+GRUD_traindata10%,consective miss,miss rate:60
+current time:2024-02-01 16:53:04
+RMSE = 0.11466   MAE = 0.06183   R2 = 0.80813   
+GRUD_traindata10%,consective miss,miss rate:50
+current time:2024-02-01 16:53:40
+RMSE = 0.32699   MAE = 0.30599   R2 = -0.56044   
+GRUD_traindata10%,consective miss,miss rate:50
+current time:2024-02-01 16:54:31
+RMSE = 0.29482   MAE = 0.26343   R2 = -0.26850   
+GRUD_traindata10%,consective miss,miss rate:50
+current time:2024-02-01 16:55:08
+RMSE = 0.29674   MAE = 0.26540   R2 = -0.28502   
+GRUD_traindata10%,consective miss,miss rate:50
+current time:2024-02-01 16:55:38
+RMSE = 0.29509   MAE = 0.26322   R2 = -0.27083   
+GRUD_traindata10%,consective miss,miss rate:40
+current time:2024-02-01 16:56:11
+RMSE = 0.11805   MAE = 0.06907   R2 = 0.79661   
+GRUD_traindata10%,consective miss,miss rate:30
+current time:2024-02-01 16:56:48
+RMSE = 0.09286   MAE = 0.04707   R2 = 0.87415   
+GRUD_traindata10%,consective miss,miss rate:20
+current time:2024-02-01 16:57:24
+RMSE = 0.29181   MAE = 0.25660   R2 = -0.24266   
+GRUD_traindata10%,consective miss,miss rate:20
+current time:2024-02-01 16:57:55
+RMSE = 0.09651   MAE = 0.05132   R2 = 0.86407   
+GRUD_traindata10%,consective miss,miss rate:80
+current time:2024-02-01 17:05:51
+RMSE = 0.31507   MAE = 0.29311   R2 = -0.44875   
+GRUD_traindata10%,consective miss,miss rate:80
+current time:2024-02-01 17:06:25
+RMSE = 0.29932   MAE = 0.27229   R2 = -0.30749   
+GRUD_traindata10%,consective miss,miss rate:80
+current time:2024-02-01 17:06:59
+RMSE = 0.31687   MAE = 0.29504   R2 = -0.46527   
+GRUD_traindata10%,consective miss,miss rate:80
+current time:2024-02-01 17:07:38
+RMSE = 0.29964   MAE = 0.27232   R2 = -0.31027   
+GRUD_traindata10%,consective miss,miss rate:60
+current time:2024-02-01 17:08:16
+RMSE = 0.10966   MAE = 0.05967   R2 = 0.82451   
+GRUD_traindata10%,consective miss,miss rate:50
+current time:2024-02-01 17:08:48
+RMSE = 0.32699   MAE = 0.30599   R2 = -0.56043   
+GRUD_traindata10%,consective miss,miss rate:50
+current time:2024-02-01 17:09:30
+RMSE = 0.09981   MAE = 0.05233   R2 = 0.85460   
+GRUD_traindata10%,consective miss,miss rate:40
+current time:2024-02-01 17:10:10
+RMSE = 0.29584   MAE = 0.26374   R2 = -0.27728   
+GRUD_traindata10%,consective miss,miss rate:30
+current time:2024-02-01 17:10:45
+RMSE = 0.10717   MAE = 0.05671   R2 = 0.83239   
+GRUD_traindata10%,consective miss,miss rate:20
+current time:2024-02-01 17:12:15
+RMSE = 0.09298   MAE = 0.04723   R2 = 0.87384   
+GRUD_traindata10%,point miss,miss rate:20
+current time:2024-02-01 19:34:38
+RMSE = 0.29160   MAE = 0.25671   R2 = -0.24092   
+GRUD_traindata10%,point miss,miss rate:30
+current time:2024-02-01 19:35:01
+RMSE = 0.29227   MAE = 0.25702   R2 = -0.24663   
+GRUD_traindata10%,point miss,miss rate:40
+current time:2024-02-01 19:35:23
+RMSE = 0.29271   MAE = 0.25916   R2 = -0.25039   
+GRUD_traindata10%,point miss,miss rate:50
+current time:2024-02-01 19:35:46
+RMSE = 0.29746   MAE = 0.26628   R2 = -0.29127   
+GRUD_traindata10%,point miss,miss rate:60
+current time:2024-02-01 19:36:08
+RMSE = 0.15678   MAE = 0.09994   R2 = 0.64127   
+GRUD_traindata10%,point miss,miss rate:70
+current time:2024-02-01 19:36:31
+RMSE = 0.32699   MAE = 0.30599   R2 = -0.56044   
+GRUD_traindata10%,point miss,miss rate:80
+current time:2024-02-01 19:36:53
+RMSE = 0.15075   MAE = 0.09048   R2 = 0.66836   
+GRUD_traindata10%,point miss,miss rate:20
+current time:2024-02-01 19:37:37
+RMSE = 0.11085   MAE = 0.06572   R2 = 0.82069   
+GRUD_traindata10%,point miss,miss rate:30
+current time:2024-02-01 19:37:59
+RMSE = 0.10257   MAE = 0.05447   R2 = 0.84645   
+GRUD_traindata10%,point miss,miss rate:40
+current time:2024-02-01 19:38:22
+RMSE = 0.29638   MAE = 0.26622   R2 = -0.28193   
+GRUD_traindata10%,point miss,miss rate:50
+current time:2024-02-01 19:38:44
+RMSE = 0.14003   MAE = 0.08808   R2 = 0.71384   
+GRUD_traindata10%,point miss,miss rate:60
+current time:2024-02-01 19:39:06
+RMSE = 0.32699   MAE = 0.30599   R2 = -0.56043   
+GRUD_traindata10%,point miss,miss rate:70
+current time:2024-02-01 19:39:29
+RMSE = 0.14540   MAE = 0.08742   R2 = 0.69146   
+GRUD_traindata10%,point miss,miss rate:80
+current time:2024-02-01 19:39:51
+RMSE = 0.30349   MAE = 0.27638   R2 = -0.34417   
+GRUD_traindata10%,point miss,miss rate:20
+current time:2024-02-01 19:47:57
+RMSE = 0.29459   MAE = 0.26309   R2 = -0.26646   
+GRUD_traindata10%,point miss,miss rate:30
+current time:2024-02-01 19:48:20
+RMSE = 0.10452   MAE = 0.05435   R2 = 0.84057   
+GRUD_traindata10%,point miss,miss rate:40
+current time:2024-02-01 19:48:42
+RMSE = 0.11224   MAE = 0.06421   R2 = 0.81617   
+GRUD_traindata10%,point miss,miss rate:50
+current time:2024-02-01 19:49:06
+RMSE = 0.09420   MAE = 0.04962   R2 = 0.87049   
+GRUD_traindata10%,point miss,miss rate:60
+current time:2024-02-01 19:49:29
+RMSE = 0.11075   MAE = 0.05890   R2 = 0.82098   
+GRUD_traindata10%,point miss,miss rate:70
+current time:2024-02-01 19:49:51
+RMSE = 0.11022   MAE = 0.06145   R2 = 0.82270   
+GRUD_traindata10%,point miss,miss rate:80
+current time:2024-02-01 19:50:14
+RMSE = 0.14547   MAE = 0.08602   R2 = 0.69117   
