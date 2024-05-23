@@ -1,4 +1,4 @@
-# SPERI-Self-periodicity-and-environment-based-recurrent-imputation-for-PV-production-data
+# SPERI:Self periodicity and environment based recurrent imputation for PV production data
 This project is related to my proposed algorithm for PV production data imputing with high missing rate of data. We public one PV production dataset in main file names *opened_data.xlsx*.
 
 # Data avaliability
